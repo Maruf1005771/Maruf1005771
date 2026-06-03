@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Maruf 😊
+
+## About Me 👨‍🌾🐮
+I enjoy exploring how systems work behind the scenes and prefer working with command-line tools over graphical interfaces.  
+For me, a terminal window feels more productive than a mouse and a dozen open menus 😁
+
+### Ask me about 🤖🤷‍♂️
+🐧 Linux and Server Administration  
+☁️ Cloud Computing  
+🔐 System Security  
+🚀 DevOps and Automation  
+🖥️ Networking and Infrastructure  
+💻 Software Development  
+
+⚡ Fun fact  
+I enjoy building, breaking, fixing, and optimizing systems 💻🔥⚙️
 
 <h3 align="left">Languages and Tools:</h3>
 
