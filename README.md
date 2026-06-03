@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Maruf1005771/Maruf1005771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=Maruf1005771&show_icons=true&theme=tokyonight" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=Maruf1005771&theme=tokyonight" width="48%"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf1005771&layout=compact&theme=tokyonight" width="50%"/>
+</p>
